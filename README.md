@@ -9,13 +9,14 @@ To add compatibility to more CDLC you need to modify the GameDLCs.java and GameS
 # Credits
 
 Thanks to the [s.o.E] team - Sons of Exiled, sonsofexiled.fr
-[s.o.E] Major_Shepard: Software Conception
-[s.o.E] Matt2507: Graphic Conception & Web Development
-[s.o.E], [BWF] & [F27] members: Testing
+
+* [s.o.E] Major_Shepard: Software Conception
+* [s.o.E] Matt2507: Graphic Conception & Web Development
+* [s.o.E], [BWF] & [F27] members: Testing
 
 https://squadalpha.es/ for making this fork:
-Juvenil for developing it.
-All members of SQA for testing it.
+* Juvenil for developing it.
+* All members of SQA for testing it.
 
 # Licence
 
